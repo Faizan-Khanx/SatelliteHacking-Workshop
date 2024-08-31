@@ -89,6 +89,16 @@ There is no single authoritative definition for cyber resiliency, but there’s 
 
 A distinction needs to be made between cybersecurity challenges for systems that are currently operational, i.e., on orbit, versus those that are in active design or development. Guidance may differ significantly between these two states due to the constraints and potential solution space afforded to mission owners. Especially for satellites, discussion of challenges is mainly focused on future system deployments. For systems currently in operations, addressing cybersecurity issues is mostly relegated to updates on the ground segment. Software updates can be made in orbit, but these can be risky therefore usually not performed due to potential mission loss.
 
+#
+Thankyou soo much for reading . I hope my this repo helps you a lot . once my research is complete i will upload two more repo first one on ``` How Russian Hackers Hack Ukranian Satellite ``` And in second one ``` We Analysis CYSAT Demo Satellite Hack ``` How CYSAT Hack Satellite Moving In Orbit
+
+# Feedback
+- If you have any feedback, please reach out to us at
+-  [INSTAGRAM](https://instagram.com/ethicalfaizan)
+-  [GITHUB](https://github.com/faizan-khanx)
+-  [EMAIL](mailto:fk776794@gmail.com)
+
+
 
 
 
